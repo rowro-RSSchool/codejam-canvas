@@ -1,5 +1,9 @@
-@import '~material-design-lite/material.min.css';
-@import 'https://fonts.googleapis.com/icon?family=Material+Icons';
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500&display=swap&subset=cyrillic');
 
 @import 'variables';
+@import 'icons';
 @import 'base';
+
+@import 'components/header';
+@import 'components/toolbar';
+@import 'components/canvas';
