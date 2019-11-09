@@ -1,4 +1,4 @@
-# codejam-virtual-keyboard
+# codejam-canvas
 
 Development  
 - `npm run start`
